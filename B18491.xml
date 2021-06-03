@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The insinuation and protest of Mr. George Carew delivered to the magistrates of the principal cities and towns in Holland and Zealand, who have voices in the government of those provinces, and likewise to the directors in the several chambers of the East-and West-India Companies there respectively.</title>
+         </titleStmt>
+         <extent>Approx. 25KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18491</idno><idno type="EEBO-CITATION">99827160</idno>
+  <idno type="VID">207549</idno>
+  <idno type="EEBO-PROQUEST">2248495430</idno>
+  
+            <idno type="STC">Wing C548</idno>
+            <idno type="PROQUEST">99827160</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827160e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18491)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207549)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1905:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The insinuation and protest of Mr. George Carew delivered to the magistrates of the principal cities and towns in Holland and Zealand, who have voices in the government of those provinces, and likewise to the directors in the several chambers of the East-and West-India Companies there respectively.</title>
+                  <author>Carew, George, Esq.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the Goldsmiths' Library, University of London, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">East India Company --  Early works to 1800.</term>
+               <term type="topical_term">Law --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:207549:1"/>
+            <pb n="1" facs="tcp:207549:1"/>
+            <head>The Insinuation and Protest of <hi>Mr. George Carew:</hi> delivered to the <hi>Magistrates</hi> of the Principal Cities and Towns in <hi>Holland</hi> and <hi>Zealand,</hi> who have voices in the Government of those <hi>Provinces,</hi> and likewise to the <hi>Directors</hi> in the several Chambers of the <hi>East</hi>- and <hi>West-India Companies</hi> there respectively.</head>
+            <p>
+               <hi>UPon the second day of February, in the year of our Lord, 1676. English stile, <hi>George Carew</hi> of <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ichmond</hi> in the County of Surrey in the Kingdom of <hi>England</hi> Esq; Administrator of the Goods and Chattels, debts and credits of Sr. <hi>William Courten</hi> and Sr. <hi>Paul Pyndar</hi> Knights deceased, (with there Wills annexed) and joyntly Assignee with others, of Sr. <hi>Edward Littleton,</hi> and likewise of the Commissioners upon the statutes made concerning Banck<g ref="char:EOLhyphen"/>rupts against <hi>William Courten,</hi> Son and heir of Sr. <hi>William Courten,</hi> in right of all the goods, Credits, and Effects whatsoever belonging to the said <hi>William Courten</hi> in any parts of the world: and general Procurator of the Proprietors and Adventurers with Sr. <hi>William Courten</hi> in his Enterprizes to the East-Indies, <hi>China,</hi> and <hi>Japan;</hi> In the several qualities aforesaid: The said <hi>George Car<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w</hi> per<g ref="char:EOLhyphen"/>sonally appeared the day and year abovesaid before me <hi>Godfrey</hi> van <hi>Hill,</hi> Notary Publique (sworn and admitted by the Soveraign Provincial Court of <hi>Holland,</hi>) residing in the Citie of <hi>Amster<g ref="char:EOLhyphen"/>dam,</hi> and in the presence of the Witnesses hereunder written, did solemnly and openly assert and declare the matters contained in the Aricles following, and protest against all persons whatsoever hereafter mentioned in the Provinces of <hi>Holland</hi> and <hi>Zealand,</hi> for all dammages, costs, and Interests alr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ady sustained or that may be sustained for or by reason thereof.</hi>
+            </p>
+            <p n="1">
+               <hi>1.</hi>
+               <seg rend="decorInit">W</seg>HEREAS <hi>King Charles</hi> the first (of ever blessed memorie) in the year <hi>1635.</hi> by His let<g ref="char:EOLhyphen"/>ters patents under the great Seal of <hi>England,</hi> for the reasons and Especial considerations there<g ref="char:EOLhyphen"/>in contained, granted Licence with certain Priviledges unto <hi>Sr. William Courten</hi> and a Select Company of Merchants of <hi>London,</hi> and other adventurers in a joint stock with him to trade unto the <hi>East-Indies, China,</hi> and <hi>Iapan,</hi> and parts adjacent, in consequence whereof several Fac<g ref="char:EOLhyphen"/>tories were setled at <hi>Maccao, Canton, Carwar</hi> and other places, by vertue of contracts with the <hi>King of Spain,</hi> and <hi>Vice-Roys</hi> in those other <hi>Kingdoms, Empires</hi> and <hi>Dominions</hi> respec<g ref="char:EOLhyphen"/>tively.</p>
+            <p n="2">
+               <hi>2.</hi> That several unkind Offices being done unto Captain <hi>Iohn Weddall</hi> and <hi>Nathanaell Mountney</hi> Commanders of the two Ships named the <hi>Dragon</hi> and <hi>Catharine</hi> by the Officers and Ministers of the <hi>East-India</hi> Company of the <hi>Netherlands</hi> in their Navigations upon the Coast of <hi>India</hi> from Port to Port on their trading Voyages, and threat<g ref="char:EOLhyphen"/>ning the said <hi>Weddall</hi> and <hi>Mountney,</hi> that if they arrived in any places where the <hi>Dutch East-India Company</hi> traded, that they would affront them, and watch for their returning home, and by what accident or misfortune, (which as yet is not publickly known or discovered) the said two Ships being richly laden for the account of the said <hi>Sr. Wil<g ref="char:EOLhyphen"/>liam Courten</hi> and Company to the value of <hi>one hundred and sixty thousand pounds</hi> Sterling, and coming from <hi>Iapan</hi> bound for <hi>England</hi> in the year <hi>1638.</hi> So miscarryed, that from the time of their departure to this day the Proprie<g ref="char:EOLhyphen"/>tors never heard what became of the men, Ships, or Goods.</p>
+            <p n="3">
+               <hi>3.</hi> That afterwards the said <hi>William Courten</hi> Son and heir of <hi>Sr. William,</hi> with the rest of the Proprietors and Adventurers, in the year <hi>1641.</hi> Set forth (amongst others) the Ships named the <hi>Bona Esperanza</hi> and <hi>Henry Bona Adventura</hi> with moneys and merchandize for supply of the said factories.</p>
+            <p n="4">
+               <hi>4.</hi> That <hi>William Courten</hi> in the moneth of April <hi>1642.</hi> having assigned his share and stock in the said Ships and Company to <hi>Sr. Edward Littleton</hi> for payment of debts, and <hi>Sr. Edward Littleton</hi> in the moneth of December <hi>1642.</hi> having assigned several summs of money out of the said Ships lading and fraights unto <hi>Sr. Paul Pyndar,</hi> the said Ships and their lading were surprized in the year <hi>1643.</hi> by the Officers of the <hi>East-India Company</hi> of the <hi>Netherlands,</hi> who took them into their possession with all the books, papers, writings, contracts and journals on board, and detained and converted them to their own use, against all the Laws of property and common right.</p>
+            <p n="5">
+               <hi>5.</hi> That <hi>William Courten</hi> in the year <hi>1644.</hi> Absented himself from his Creditors and became insolvent, yet com<g ref="char:EOLhyphen"/>bined with <hi>Jacob Pergens</hi> of <hi>Amsterdam</hi> in the year <hi>1648.</hi> unto whom <hi>Courten</hi> made a subsequent assignment of his share and stock aforesaid, which indirect practice being come to the knowledge of <hi>Sr. Paul Pyndar</hi> and <hi>Sr. Edward Littleton,</hi> they intimated their right and property by <hi>Ionas Abeels</hi> unto the <hi>East-India Company</hi> of the <hi>Netherlands,</hi> interdicting the <hi>Directors</hi> at their Chamber in <hi>Amsterdam</hi> from any transaction with the said <hi>Pergens,</hi> protesting for all costs, dammages and interests, as by the Notarial Acts appears: yet <hi>notwithstanding</hi> in the year <hi>1649. Pergens</hi> and the <hi>Directors</hi> of the <hi>Company</hi> made a colourable agreement for <hi>Courtens</hi> pretence of Action, for <hi>Eighty five thou<g ref="char:EOLhyphen"/>sand gilders,</hi> upon Caution of <hi>Peter Boudaen</hi> to indemnifie the <hi>Company</hi> against <hi>Pyndar</hi> and others.</p>
+            <p n="6">
+               <hi>6.</hi> That in the year <hi>1660. King Charles</hi> the Second being restored to His <hi>Crown</hi> and <hi>Kingdoms,</hi> the Proprietors and joynt Adventurers with <hi>Sr. William Courten</hi> addressed themselvs to His <hi>Majesty</hi> for relief concerning the said spoils and dammages, who recommended the same to the <hi>States General,</hi> and provided by a special agrement in the <hi>15.</hi> Article of the Treaty concluded at <hi>London,</hi> in the ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <hi>1662.</hi> that those dammages and spoils should be Amicably com<g ref="char:EOLhyphen"/>posed by conferences of <hi>State</hi> at the <hi>Hague</hi> between <hi>Sr. George Downing</hi> and the <hi>Deputies</hi> of the <hi>States General</hi> for En<g ref="char:EOLhyphen"/>glish affairs: Whereupon <hi>Mr. John de Wit</hi> and <hi>Mr. Peter van Dam</hi> Advocate of the <hi>East-India Company</hi> with several <hi>Directors</hi> had sundry conferences and debates with <hi>Sr. George Downing</hi> in the years <hi>1663.</hi> and <hi>1664.</hi> in the Chamber of the <hi>States General:</hi> but the <hi>East-India Company</hi> would not come to any possitive Agreement concerning the said dam<g ref="char:EOLhyphen"/>mages,
+<pb n="2" facs="tcp:207549:2"/> then his Majestie in the year following granted special reprisals unto <hi>Sr. Edmund Turnor</hi> and this <hi>Insinuant</hi> their Executors and assigns to be in full force and effect untill the summ of <hi>151612.</hi> pound Sterling should be recovered with Costs and Dammages from the <hi>States General</hi> and their Subjects: as by the Copie of the said letters Patents un<g ref="char:EOLhyphen"/>der the great Seal of <hi>England</hi> hereunto annexed appears.</p>
+            <p n="7">
+               <hi>7.</hi> That <hi>James Boeve</hi> at the request of this Insinuant, in the year <hi>1666.</hi> gave a Copie of the said Patent unto <hi>Mr. Peter van Dam</hi> to shew the Company that they might understand how His <hi>Majesty</hi> had granted a power out of himself unto particular persons, according to the Law of Nations, and so made the <hi>Soveraign demand</hi> into a special grant upon record, (against which there is no averrment,) whereof the Company was obliged to take notice, and that nothing could obliterate or make void the said Patent, but satisfaction of the dammages or a composition with the persons interessed in the said grant, (wherein the <hi>King</hi> was not deceived) being such a Iudicial Act no ways re<g ref="char:EOLhyphen"/>pugnant to the Laws of God or Man, whereby those spoyls and dammages done and committed in times of Peace and common Amity, should be recovered or reprised in the like times, if the <hi>East-India Company</hi> would not be inclined to make restitution by amicable means.</p>
+            <p n="8">
+               <hi>8.</hi> That notwithstanding the advice and admonitions, the <hi>East-India Com<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>any</hi> of the <hi>Netherlands</hi> would not take any Cognizance thereof, but on the contrary <hi>John de Witt</hi> and others, upon the surprise at <hi>Chattam,</hi> presumed that such a <hi>solemn grant</hi> could be mortified and extinguished by general words at <hi>Breda,</hi> without other satisfaction then new aggravations, for which the land mourns.</p>
+            <p n="9">
+               <hi>9.</hi> That in the year <hi>1671.</hi> the Proprietors and Interessed in the <hi>Bona Esperanza</hi> and <hi>Henry Bona Adventura</hi> having made new addresses to his <hi>Majesty</hi> in Council, the said Cause was revived by several orders, references, and re<g ref="char:EOLhyphen"/>ports, all signifying, that the <hi>King</hi> was obliged in Iustice and Honour to require satisfaction from the <hi>States General</hi> and their Subjects for the said Ships according as it was setled in the said letters Patents. <hi>The States General</hi> having cancelled all treaties by breach of Covenants.</p>
+            <p n="10">
+               <hi>10.</hi> That in pursuance thereof, the Original Orders and Reports and His <hi>Majesties</hi> letters were sent express with this Insinuant and others, to the <hi>Plenipotentiaries</hi> from the <hi>King</hi> at <hi>Utrecht</hi> and <hi>Cologne</hi> to insist upon satisfaction accordingly, the <hi>King</hi> having intimated therein, that His care in this affair should be as much to protect his Subjects in their Iust rights as to Assist them in the recovery thereof, all which came to the knowledge of the <hi>States General.</hi> The <hi>States</hi> of <hi>Holland</hi> having taken away the said papers &amp; orders from this <hi>Insinuant,</hi> whom they detained a close Pri<g ref="char:EOLhyphen"/>soner at the <hi>Hague</hi> twenty moneths, where he and his servants were affronted contrary to the Laws of Nations having Pasports from the <hi>States</hi> Commissioners at <hi>Hampton Court.</hi> on the <hi>5.</hi> of Iulij <hi>1672.</hi>
+            </p>
+            <p n="11">
+               <hi>11.</hi> That to take away all differences and disputes concerning the said Ships and their lading, the <hi>States General</hi> (as they do alledge) in the last Treaty at <hi>London</hi> agreed to pay <hi>800000.</hi> Pattacons at <hi>4.</hi> several payments, the first being only made, whereof this Insinuant received fifty pounds from <hi>Alderman Backwell,</hi> by order of the Right Honorable <hi>Thomas Lord Viscount Latimer,</hi> Lord High Treasurer of <hi>England,</hi> and <hi>150.</hi> pound from the <hi>States</hi> of <hi>Holland,</hi> towards his extraordinary expences and incident disbursments during his Imprisonment.</p>
+            <p n="12">
+               <hi>12.</hi> That the <hi>Insinuant</hi> upon his releasment (without any prejudice to his further right and demands against all other persons,) assigned <hi>5500.</hi> pound Sterling to <hi>Mr. Marke Fletcher</hi> of <hi>Middleburgh,</hi> which money was resting in, the hands of <hi>Iacob Pergens</hi> a trustee of <hi>Courten,</hi> (being particularly granted before to <hi>Sr. Paul Pyndar</hi>) in lessening of the debt and dammages concerning the said Ships their fraights and lading, the payment whereof <hi>Pergens</hi> also obstructed by extrajudiciall and impertinent orders of the <hi>States of Holland.</hi>
+            </p>
+            <p n="13">
+               <hi>13.</hi> That although this <hi>Insinuant</hi> hath the greatest confidence in the Iustice and Honour of the <hi>King</hi> (who can do no wrong) yet being obliged in this Case to use his diligence wherein so many Families of Orphans and Widows are concerned, (whose bread is eaten by strangers) the <hi>Insinuant</hi> therefore hath not been wanting to ad<g ref="char:EOLhyphen"/>dress his humble requests severally to the <hi>King</hi> of <hi>Great Britain,</hi> and the <hi>States General</hi> concerning the same.</p>
+            <p n="14">
+               <hi>14.</hi> That this <hi>Insinuant</hi> being further obliged, by the importunities of several Creditors claiming under his Ad<g ref="char:EOLhyphen"/>ministration to put your Lordships of the common Councell of the several and respective Cities and Towns in <hi>Holland</hi> and <hi>Zealand,</hi> in remembrance, as also the Directors of the several and respective Chambers of the <hi>East</hi> and <hi>West-India Companies</hi> of the <hi>Netherlands,</hi> that untill satisfaction and reparation be made according to the true intent and purport of the said letters Patents, the demands continue upon record <hi>(in statu quo)</hi> the price of so much <hi>English</hi> bloud and treasure already spent in the vindication thereof.</p>
+            <p n="15">
+               <hi>15.</hi> That the supream Court of Iudicature at the <hi>Hague</hi> having denied the <hi>Insinuant</hi> admittance in a cause of inter<g ref="char:EOLhyphen"/>vention against <hi>Jacob Pergens</hi> upon a bond of <hi>3000.</hi> pound, wherein <hi>Sr. Iacob Catts</hi> la<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Chancelor of <hi>Holland</hi> stood bound unto <hi>Sr. William Courten;</hi> The <hi>Insinuant</hi> was renvoyed or removed to the <hi>Magistrates</hi> of <hi>Amsterdam</hi> as Competent Iudges of <hi>Pergens,</hi> who had made his exception of Burger-right, where the <hi>Insinuant</hi> was ordred to sue him; Nevertheless both parties having proceeded in <hi>Amsterdam</hi> and brought the Cause into a state for sentence, yet the <hi>Scheepens</hi> or <hi>Iudges</hi> refused to pronounce the same; Although the <hi>Insinuant</hi> constantly solicited the <hi>Lords</hi> thereunto throughout the whole year <hi>1676.</hi> Where at last they alleadged that the <hi>States</hi> of <hi>Holland</hi> had interdicted them from doing any Iustice therein, as by the deduction of the Case appears.</p>
+            <p n="16">
+               <hi>16.</hi> That the <hi>Scheepens</hi> or <hi>Iudges</hi> of <hi>Middleburgh</hi> and also the supream Court of <hi>Iudicature</hi> at the <hi>Hague,</hi> have seve<g ref="char:EOLhyphen"/>rally delayed and denied this <hi>Insinuant</hi> and <hi>Mr. Iohn White</hi> and <hi>Mr. James Boeve,</hi> the due administration of Iustice and Equity upon diverse Iudiciall Acts and decrees of the <hi>Prerogative Court</hi> of <hi>England</hi> whereby they were sufficiently impowred to require an account of <hi>Peter Boudaen</hi> of <hi>Middleburgh</hi> Merchant deceased, and of his Sons and Heirs for several vast summs of money drawn out of <hi>England</hi> by <hi>Sr. Peter Courten</hi> in Company with <hi>Sr. William Courten</hi> and <hi>Iohn Moncy</hi> upon their Linnen trade and other Merchandizes, whereupon the <hi>Kings</hi> Subjects were not only defrauded, but the Iudicature of <hi>England</hi> wronged by those Sinister Practises, fomented by <hi>Iacob Pergens, Pieter Bou<g ref="char:EOLhyphen"/>daen</hi> and his Sons. The <hi>Insinuant</hi> therefore on the <hi>6.</hi> day of November, <hi>1675.</hi> made an <hi>interdiction</hi> and <hi>protest</hi> at the seve<g ref="char:EOLhyphen"/>ral Chambers of the <hi>East-</hi> and <hi>West-India Companies</hi> in <hi>Middleburgh</hi> prohibiting the <hi>Directors</hi> in the said Chambers to make any reparitions of monies <hi>(Pendente Lite)</hi> upon any Obligations or Actions unto <hi>Mr. Iohn Boudaen, Pe<g ref="char:EOLhyphen"/>ter Boudaen, Walter Boudaen, Henry Boudaen, Catharine Boudaen</hi> and <hi>Constantia Boudaen,</hi> Sons and Daugh<g ref="char:EOLhyphen"/>ters of <hi>Pieter Boudaen,</hi> or to transferr or aleniate any such Action or Obligation belonging to the said <hi>Boudaens</hi> or either of them, for that it appeared upon record in <hi>England,</hi> (as a Capital offence for which <hi>Sr. William Courten</hi> was committed to Prison) that several great quantities of gold (which <hi>Sr. William Courten</hi> had taken up at interest
+<pb n="3" facs="tcp:207549:2"/> of his Creditors) was transported to <hi>Sr. Peter Courten</hi> at <hi>Middleburgh,</hi> who had indirectly imployed the same in pur<g ref="char:EOLhyphen"/>chasing of Original Actions in the <hi>East-</hi> and <hi>West-India</hi> Companies, and that since his death, the said <hi>Peter Bou<g ref="char:EOLhyphen"/>daen</hi> and his Sons taking advantages of the Civill warrs in <hi>England</hi> and the Iniquities of these times, have wholy refused to account for the summ of <hi>122138.</hi> pounds Sterling gotten into their hands, as by the ballance of the Books kept in <hi>England</hi> appears, and notwithstanding the said Insinuation, interdiction and protest was read by <hi>H. van Rijckegem</hi> Notary Publick in the Chamber of the <hi>East-India</hi> Campany at <hi>Middleburgh</hi> before <hi>Mr. Gillis Mueniux, Iacob Hoorn, Mr. Daniel Fannius</hi> and <hi>Alexander de Munck</hi> Directors of the Company, and ordred by the whole Colledge to be registred in their Books, and that this <hi>Insinuant</hi> did also on the <hi>3.</hi> March <hi>1676.</hi> new stile, make a presentation to the <hi>Magistrates</hi> of <hi>Middelburgh</hi> in writing to avoyd all further troubles and inconveniences, that all differences, and accounts might be referred unto neutral Merchants and others there under mutual Obligations to abide their award, and final determinations, yet the said <hi>Boudaens</hi> have obstinately refused to come to any account, or to re<g ref="char:EOLhyphen"/>ferr the same, but in contempt of all Laws and Prosecutions, admonitions and recommendations whatsoever do keep the Effects of <hi>Sr. William Courten,</hi> and his Sons Estates in their hands, to the prejudice of this Insinuant and all other Creditors claiming the same.</p>
+            <p>WHerefore this <hi>Insinuant,</hi> being also obliged by Sacred Oaths and Covenants in the Prerogative Court to use his utmost indeavours for satisfaction of the said Creditors (who dayly quicken him by their memorials) doth solemny protest, on the behalf of himself and the rest of the Proprietors, and all other persons whatsoever, (whose moneys were lent upon the several Obligations of <hi>Sr. William Courten, William Courten</hi> Esq; his Son, <hi>Sr. Edward Littleton,</hi> the late Earle of <hi>Bridgwater, Sr. Paul Pyndar, Samuel Bonnell</hi> and <hi>David Goubard,</hi> yet standing out amounting unto <hi>two hundred</hi> &amp; fifty <hi>thousand pounds</hi> Sterling and upwards) for all dammages, Costs and Interest sustained already or that shall be sustained by reason of the premisses, or any part thereof, against the worshipfull <hi>Magistrates</hi> &amp; <hi>Common Councell</hi> of the several Citties, &amp; Towns in <hi>Holland</hi> and <hi>Zealand,</hi> that have their deputies in those <hi>States</hi> Provincial, or Councel of <hi>State,</hi> Provincial Court of Justice, or Supream Court of Judicature, at the <hi>Hague</hi> re<g ref="char:EOLhyphen"/>spectively, and especially against the <hi>Magistrates</hi> of <hi>Amsterdam</hi> and <hi>Middleburgh,</hi> and the Directors of the <hi>East-India</hi> Company there; In Witness whereof the Insinuant hath hereunto set his hand the day and year aforesaid.</p>
+            <closer>
+               <signed>George Carew.</signed>
+               <signed>Declared and Subscribed in the Presence of
+<list>
+                     <item>
+                        <hi>Robert Parker.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Meoles.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <signed>
+                  <hi>Godfrey van Hill</hi> Notary Publique.</signed>
+            </closer>
+            <postscript>
+               <p>Mutatis Mutandis <hi>delivered in Dutch to the 18. several Cities in</hi> Holland, <hi>(viz)</hi> Dort, Haerlem, Delft, Leyden, Amsterdam, Tergou, Rotterdam, Gorcum, Schiedam, Schoonhoven, Briel, Hoorn, Enckhuysen, Alckmaer, Medenblick, Edam, Mun<g ref="char:EOLhyphen"/>nenkedam <hi>and</hi> Purmerent.</p>
+               <p>
+                  <hi>Also to the 6.</hi> States <hi>or Cities in</hi> Zealand <hi>as follow,</hi> viz. Middleburgh, Flushing, Camp-veer, Ter-goes, Zirickzee, Ter-tolen.</p>
+               <p>
+                  <hi>And to the 6. Chambers of the</hi> East-India <hi>Company,</hi> viz. In Amsterdam, Middleburgh, Rotterdam, Delft, Hoorn <hi>and</hi> Enckhuysen.</p>
+            </postscript>
+         </div>
+         <div type="petition">
+            <pb n="4" facs="tcp:207549:3"/>
+            <head>TO THE Honourable the Knights, Citizens and Burgesses, in Parliament assembed. <hi>The Humble Petition of</hi> Sr. Edward Graves <hi>and</hi> Sr. John Ayton <hi>Knights,</hi> William Whitmore, Charles Whitaker, George Carew, William Hinton, Thomas Coppin, Gilbert Crouch <hi>and</hi> Richard Jones <hi>Esquires.</hi> Mary Loyd, Hester Stiles <hi>and</hi> Elizabeth Bartlet, Widows, Richard Toomes, Iohn Gifford, William Morehead, Eusebius Mathews, <hi>and</hi> Thomas Hamond <hi>Gentlemen.</hi> Marke Fletcher <hi>and</hi> Iames Boeve <hi>merchants: On the behalf of themselvs and many hundreds of His Ma<g ref="char:EOLhyphen"/>jesties good Subjects of</hi> England, <hi>Especially concerned in the Cases annexed.</hi>
+            </head>
+            <opener>Sheweth</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat Sr. <hi>William Courten,</hi> Sr. <hi>Peter Courten,</hi> and <hi>Iohn Moncy</hi> of <hi>London,</hi> Merchants traded in Companie many years together in the linnen Manu<g ref="char:EOLhyphen"/>facturs, and other Merchandizes, wherein <hi>Sr. William Courten</hi> had two parts of the stock, and Each of the other a fourth part.</p>
+            <p>That Sr. <hi>Peter Courten</hi> settled himself at <hi>Middleburgh</hi> in <hi>Zealand,</hi> where he drew many vast summs of money out of <hi>England,</hi> which were taken up at Interest in <hi>London,</hi> and dyed indebted to the stock of the Company, the summ of 122138-10-16. Sterling, as by the ballance of the Books kept in <hi>England</hi> hereunto annexed appears.</p>
+            <p>That Sr. <hi>Peter Courten</hi> left <hi>Peter Boudaen</hi> of <hi>Middleburgh</hi> Merchant his Nephew sole Execu<g ref="char:EOLhyphen"/>tour, who possessed himself of all the Books of account kept in <hi>Zealand,</hi> and the Estate both reall and personal of Sr. <hi>Peter Courten:</hi> and being afterwards questioned at Law by Mr. <hi>John White, James Boeve</hi> and <hi>George Carew</hi> severally concerning the said monies; The said <hi>Peter Boudaen</hi> used all manner of Sinister practises to avoid coming to any account, and took advantage of the late times and troubles, to obstruct the ordinary Course of Justice during his life, as his Sons and Heyrs have since done the same; Whereby the due administration of Justice hath been often denyed, and the Judicial Acts and decrees of the Prerogative Court, and High Court of Chancery, slighted and contemned in the Ordinary Courts of Judicature in <hi>Holland</hi> and <hi>Zealand,</hi> to the great oppres<g ref="char:EOLhyphen"/>sion of your Petitioners and many Orphans and Widows, claiming the Effects of Sr. <hi>William Courtens</hi> Estate, and his Sons, as also Mr. <hi>John Moncies</hi> and Sr. <hi>Paul Pyndars</hi> gotten into the hands of the said <hi>Boudaens, Jacob Pergens</hi> and other Inhabitans of <hi>Amsterdam</hi> and <hi>Middleburgh,</hi> as by the deductions of the several Cases hereunto annexed appears.</p>
+            <p>Now forasmuch as your Petitioners are left without all other remedy (the <hi>King's</hi> recommendations to the <hi>States General</hi> for justice being also slighted and contemned) and it being of most dangerous consequence to suffer the Iudicature of <hi>England</hi> to be wonged, and the rights and properties of the Subjects to be lost, through the erronious practises in forraign Courts of Iustice contrary to the Law of Nations:</p>
+            <closer>Your Petitioners do therefore most humbly pray, that your Honours would take their Grievances into your most serious considerations: And upon Examination thereof to represent the same, by special address to His <hi>Majestie,</hi> that some speedy and Effectual relief way be had therein, according to the Merits of the said Causes. <hi>And your Petitioners shall ever pray,</hi> &amp;c.</closer>
+            <pb facs="tcp:207549:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
